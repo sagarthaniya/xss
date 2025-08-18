@@ -1,5 +1,5 @@
 (async () => {
-  const newEmail = "sectest29@gmail.com";
+  const newEmail = "bugbpoc@gmail.com";
   const editUrl = "https://www.keysight.com/used/in/en/your-account/account-details/edit";
 
   const resp = await fetch(editUrl, { credentials: 'include' });
